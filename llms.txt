@@ -1,0 +1,14 @@
+# NestNook
+
+> NestNook is a blog for US renters and small homes about renter-friendly smart homes: 108 no-drill, deposit-safe guides for apartments and small homes — lighting, security, climate, kitchen and budget setups under $100.
+
+## Guides
+
+- Smart home for renters and small homes
+- No-drill video doorbells and security
+- Renter-friendly smart lighting
+- Climate, kitchen and budget smart-home setups under $100
+
+## Site
+
+- Homepage: https://nestnook.pages.dev/
