@@ -1,14 +1,22 @@
 # NestNook
 
-> NestNook is a blog for US renters and small homes about renter-friendly smart homes: 108 no-drill, deposit-safe guides for apartments and small homes — lighting, security, climate, kitchen and budget setups under $100.
+> NestNook is a US blog about renter-friendly smart homes: 108 no-drill, deposit-safe guides for apartments and small homes, covering lighting, no-drill security, climate, kitchen gadgets, small spaces and budget setups under $100. Every guide states cost, setup time, tools and landlord-safe removal notes.
 
-## Guides
+NestNook helps US renters and small-home owners enjoy smart-home comfort without drilling, rewiring or risking a security deposit. All 108 guides live on the single-page site below, organised into 7 categories with search and filters; each guide opens as a full article with steps, a budget table, landlord-safe notes and FAQs.
 
-- Smart home for renters and small homes
-- No-drill video doorbells and security
-- Renter-friendly smart lighting
-- Climate, kitchen and budget smart-home setups under $100
+## Guide categories
 
-## Site
+- [Start Here](https://nestnook.pages.dev/#categories): First devices, setup order and the renter rules that protect your deposit — including building a smart home in a small apartment for under $100.
+- [Lighting](https://nestnook.pages.dev/#categories): Smart bulbs, LED strips and lamps that transform a rental in minutes, with no hub and no wiring.
+- [Security — No-Drill](https://nestnook.pages.dev/#categories): No-drill video doorbells, peephole cameras, stick-on sensors and smart locks with zero screws.
+- [Climate & Air](https://nestnook.pages.dev/#categories): Smart fans, purifiers, humidity and thermostat alternatives that never touch landlord-owned systems.
+- [Kitchen & Dining](https://nestnook.pages.dev/#categories): Small-kitchen smart gadgets, leak sensors and voice-controlled cooking help that earn their counter space.
+- [Small Spaces](https://nestnook.pages.dev/#categories): Studio and tiny-home layouts, storage, TV and work-from-home setups for small footprints.
+- [Budget & Deals](https://nestnook.pages.dev/#categories): Under-$25 upgrades, under-$50 security kits, deal playbooks and honest subscription advice.
 
-- Homepage: https://nestnook.pages.dev/
+## Key pages
+
+- [All 108 guides](https://nestnook.pages.dev/#library): Search and filter the full guide library.
+- [Starter Kit Builder](https://nestnook.pages.dev/#kitbuilder): Interactive widget that builds a no-drill starter kit for a chosen budget and priority.
+- [The weekend plan](https://nestnook.pages.dev/#start): A 3-step path to a first smart home — light it up, see the door, automate the rest.
+- [About NestNook](https://nestnook.pages.dev/#about): What NestNook is, who it is for, and the deposit-safe promise behind every guide.
