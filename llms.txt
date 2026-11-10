@@ -20,3 +20,7 @@ NestNook helps US renters and small-home owners enjoy smart-home comfort without
 - [Starter Kit Builder](https://nestnook.site/#kitbuilder): Interactive widget that builds a no-drill starter kit for a chosen budget and priority.
 - [The weekend plan](https://nestnook.site/#start): A 3-step path to a first smart home — light it up, see the door, automate the rest.
 - [About NestNook](https://nestnook.site/#about): What NestNook is, who it is for, and the deposit-safe promise behind every guide.
+
+- [Privacy Policy](https://nestnook.site/privacy.html): What data NestNook collects (very little), cookies and Google advertising, affiliate links.
+- [Contact NestNook](https://nestnook.site/contact.html): Report a correction or broken link, request a guide, or ask about a partnership — via WhatsApp.
+- [Best Video Doorbells for Apartments (Black Friday 2026)](https://nestnook.site/best-video-doorbell-for-apartment.html): No-drill doorbell picks for renters, with verified prices, package-theft plan and smart-lock picks.
